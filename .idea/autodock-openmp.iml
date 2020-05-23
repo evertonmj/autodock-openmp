@@ -1,0 +1,144 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module type="CPP_MODULE" version="4">
+  <component name="NewModuleRootManager">
+    <content url="file://$MODULE_DIR$">
+      <sourceFolder url="file://$MODULE_DIR$/CMakeLists.txt" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/autodock/alea.cc" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/autodock/analysis.cc" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/autodock/atom_parameter_manager.cc" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/autodock/banner.cc" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/autodock/bestpdb.cc" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/autodock/calculateEnergies.cc" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/autodock/call_cpso.cc" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/autodock/call_glss.cc" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/autodock/call_gs.cc" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/autodock/call_ls.cc" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/autodock/center_ligand.cc" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/autodock/changeState.cc" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/autodock/check_header_float.cc" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/autodock/check_header_int.cc" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/autodock/check_header_line.cc" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/autodock/clmode.cc" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/autodock/cluster_analysis.cc" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/autodock/cnv_state_to_coords.cc" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/autodock/coliny.cc" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/autodock/com.cc" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/autodock/conformation_sampler.cc" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/autodock/dimLibrary.cc" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/autodock/distdepdiel.cc" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/autodock/eintcal.cc" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/autodock/eintcalPrint.cc" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/autodock/eval.cc" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/autodock/gencau.cc" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/autodock/getInitialState.cc" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/autodock/get_atom_type.cc" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/autodock/getpdbcrds.cc" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/autodock/getrms.cc" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/autodock/gs.cc" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/autodock/initautodock.cc" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/autodock/input_state.cc" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/autodock/intnbtable.cc" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/autodock/investigate.cc" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/autodock/linpack.cc" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/autodock/ls.cc" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/autodock/main.cc" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/autodock/mapping.cc" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/autodock/mingw_getrusage.cc" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/autodock/minmeanmax.cc" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/autodock/mkNewState.cc" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/autodock/mkRandomState.cc" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/autodock/mkTorTree.cc" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/autodock/nbe.cc" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/autodock/nonbonds.cc" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/autodock/openfile.cc" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/autodock/output_state.cc" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/autodock/parse_PDBQT_line.cc" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/autodock/parse_dpf_line.cc" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/autodock/parse_param_line.cc" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/autodock/parse_trj_line.cc" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/autodock/parsetypes.cc" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/autodock/prClusterHist.cc" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/autodock/prInitialState.cc" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/autodock/prTorConList.cc" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/autodock/printEnergies.cc" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/autodock/print_2x.cc" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/autodock/print_atomic_energies.cc" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/autodock/print_avsfld.cc" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/autodock/print_rem.cc" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/autodock/printdate.cc" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/autodock/printhms.cc" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/autodock/pso.cc" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/autodock/qmultiply.cc" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/autodock/qtransform.cc" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/autodock/quicksort.cc" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/autodock/ranlib.cc" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/autodock/readPDBQT.cc" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/autodock/read_parameter_library.cc" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/autodock/readfield.cc" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/autodock/readmap.cc" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/autodock/rep.cc" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/autodock/scauchy.cc" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/autodock/setflags.cc" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/autodock/simanneal.cc" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/autodock/sort_enrg.cc" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/autodock/stack.cc" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/autodock/stateLibrary.cc" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/autodock/stop.cc" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/autodock/strindex.cc" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/autodock/success.cc" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/autodock/support.cc" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/autodock/swap.cc" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/autodock/test_times.cc" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/autodock/threadlog.cc" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/autodock/timesys.cc" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/autodock/timesyshms.cc" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/autodock/torNorVec.cc" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/autodock/torsion.cc" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/autodock/trilinterp.cc" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/autodock/usage.cc" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/autodock/warn_bad_file.cc" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/autodock/weedbonds.cc" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/autodock/writePDBQT.cc" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/autogrid/atom_parameter_manager.cpp" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/autogrid/banner.cpp" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/autogrid/calc_vina_potential.cpp" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/autogrid/check_size.cpp" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/autogrid/convertmap.cpp" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/autogrid/distdepdiel.cpp" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/autogrid/gpfparser.cpp" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/autogrid/init_gridmap.cpp" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/autogrid/main.cpp" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/autogrid/mingw_getrusage.cpp" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/autogrid/parse_param_line.cpp" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/autogrid/parsetypes.cpp" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/autogrid/prHMSfixed.cpp" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/autogrid/printdate.cpp" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/autogrid/printhms.cpp" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/autogrid/read_parameter_library.cpp" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/autogrid/setflags.cpp" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/autogrid/stop.cpp" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/autogrid/strindex.cpp" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/autogrid/timesys.cpp" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/autogrid/timesyshms.cpp" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/autogrid/util.cpp" isTestSource="false" />
+    </content>
+    <orderEntry type="inheritedJdk" />
+    <orderEntry type="sourceFolder" forTests="false" />
+    <orderEntry type="module-library">
+      <library name="Header Search Paths">
+        <CLASSES>
+          <root url="file:///usr/include" />
+          <root url="file:///usr/lib/gcc/x86_64-linux-gnu/4.8/include" />
+          <root url="file:///usr/lib/gcc/x86_64-linux-gnu/4.8/include-fixed" />
+          <root url="file:///usr/local/include" />
+        </CLASSES>
+        <SOURCES>
+          <root url="file:///usr/include" />
+          <root url="file:///usr/lib/gcc/x86_64-linux-gnu/4.8/include" />
+          <root url="file:///usr/lib/gcc/x86_64-linux-gnu/4.8/include-fixed" />
+          <root url="file:///usr/local/include" />
+        </SOURCES>
+      </library>
+    </orderEntry>
+  </component>
+</module>
